@@ -1,0 +1,26 @@
+#logo {
+    width: 190px;
+    bottom: 26px;
+    position: relative;
+}
+
+#intro{
+	background: url(../imgs/introbg.jpeg) no-repeat center center fixed;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	  background-position: 0 51px;
+}
+
+#about{
+	background: url(../imgs/bg1.jpeg) no-repeat center center fixed;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+#ddd{
+    margin-top: 50%;
+}
