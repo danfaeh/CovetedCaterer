@@ -34,3 +34,36 @@
 	color: white;
 }
 
+.productpic{
+	width: 500px;
+}
+
+.sectiontitle{
+	margin-top: -50px;
+	margin-bottom: 40px;
+}
+
+.formbox{
+    background: grey;
+    width: 390px;
+    height: 260px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#aboutbox {
+	  background: rgba(255,255,255,.8);
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 20px 50px;
+    text-align: justify;
+}
+
+#abouttitle{
+	color: #e0902d;
+	text-shadow:
+    2px 0px 0 #000, 0px 0px 0 #000, 0px 0px 0 #000, 0px 0px 0 #000, 0px 0px 0 #000;
+}
